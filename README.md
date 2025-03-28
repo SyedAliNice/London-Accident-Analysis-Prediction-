@@ -1,5 +1,6 @@
 
 # London Accident Analysis Project
+![image alt]()
 # Project Overview
 
 This project analyzes road accident data in London boroughs using data mining techniques. The goal is to identify patterns, trends, and key insights that can help improve road safety and inform policy decisions.
